@@ -53,13 +53,9 @@ In this project, a plagiarism detection system is built using a machine learning
 ### Capstone Project: Predicting Life Expectancy Rate of a Country
 For the capstone project, a model is developed to predict the life expectancy of countries based on socio-economic factors, such as GDP, healthcare access, and education level. The project makes use of IBM Cloud services, IBM Watson, and the Node-RED flow editor for model deployment and integration.
 
-## Contributing
-
-Feel free to fork the repository and submit pull requests if you'd like to contribute improvements or fixes. Contributions are always welcome!
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
